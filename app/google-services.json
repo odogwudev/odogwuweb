@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293981875150",
+    "project_id": "web2app-ca210",
+    "storage_bucket": "web2app-ca210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293981875150:android:32eb248a2caca68aff199f",
+        "android_client_info": {
+          "package_name": "com.odogwudev.webtoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293981875150-lc407a0kcbh7uuv25vn6djpojmjrvp5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdomBHFLoYK07NbQ9Tm6hrqaMHBvD9DoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293981875150-lc407a0kcbh7uuv25vn6djpojmjrvp5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
